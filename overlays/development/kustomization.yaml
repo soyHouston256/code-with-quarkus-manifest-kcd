@@ -10,4 +10,4 @@ resources:
 images:
   - name: quarkus
     newName: image-registry.openshift-image-registry.svc:5000/kcd-lima/code-with-quarkus-kcd
-    newTag: 0.0.0
+    newTag: 1.0.0
