@@ -5,7 +5,7 @@ metadata:
   labels:
     app: code-with-quarkus-kcd
 spec:
-  host: code-with-quarkus-kcd.apps.cluster-mvf62.mvf62.sandbox2472.opentlc.com
+  host: code-with-quarkus-kcd40.apps.cluster-rg6x8.rg6x8.sandbox735.opentlc.com
   to:
     kind: Service
     name: code-with-quarkus-kcd
